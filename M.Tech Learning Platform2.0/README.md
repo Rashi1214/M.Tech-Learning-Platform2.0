@@ -1,5 +1,5 @@
 
-  # M.Tech Learning Platform
+  # ProTutor Learning Platform
 
   This is a code bundle for M.Tech Learning Platform. The original project is available at https://www.figma.com/design/gnfEsvjC4Uc776YmtkabeV/M.Tech-Learning-Platform.
 
